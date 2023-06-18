@@ -6,5 +6,6 @@
 use：
 
 python baijiang.py -u http://127.0.0.1
+
 python baijiang.py -f xx.txt
 
